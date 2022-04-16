@@ -1,7 +1,7 @@
 module.exports = {
   pathPrefix: '/running', // Change to `/running_page` when running on github pages
   siteMetadata: {
-    siteTitle: 'Workouts Map',
+    siteTitle: 'Leibniz\'s Workouts Map',
     siteUrl: 'https://leibnizhu.github.io/running',
     logo: 'https://avatars.githubusercontent.com/u/13050963?s=96&v=4',
     description: 'Personal site and blog',
@@ -9,6 +9,10 @@ module.exports = {
       {
         name: 'Blog',
         url: 'https://leibnizhu.github.io/',
+      },
+      {
+        name: 'Github',
+        url: 'https://www.github.com/leibnizhu',
       }
     ],
   },

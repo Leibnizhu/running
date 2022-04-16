@@ -22,7 +22,7 @@ import {
 } from 'src/utils/utils';
 
 const Index = () => {
-  const { siteTitle } = useSiteMetadata();
+  const { siteTitle, siteUrl } = useSiteMetadata();
   const { activities, thisYear } = useActivities();
   const [year, setYear] = useState('Total');
   const [runIndex, setRunIndex] = useState(-1);
@@ -173,7 +173,7 @@ const Index = () => {
       <div className="mb5">
         <div className="fl w-30-l">
           <h1 className="f1 fw9 i">
-            <a href="/">{siteTitle}</a>
+            <a href={siteUrl}>{siteTitle}</a>
           </h1>
         {viewport.zoom <= 3 && IS_CHINESE ? (
           <LocationStat
