@@ -2,13 +2,13 @@ module.exports = {
   pathPrefix: '/running', // Change to `/running_page` when running on github pages
   siteMetadata: {
     siteTitle: 'Workouts Map',
-    siteUrl: 'https://leibnizhu.gitlab.io/running',
+    siteUrl: 'https://leibnizhu.github.io/running',
     logo: 'https://avatars.githubusercontent.com/u/13050963?s=96&v=4',
     description: 'Personal site and blog',
     navLinks: [
       {
         name: 'Blog',
-        url: 'https://leibnizhu.gitlab.io/',
+        url: 'https://leibnizhu.github.io/',
       }
     ],
   },
