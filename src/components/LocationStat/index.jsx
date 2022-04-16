@@ -19,7 +19,7 @@ const LocationStat = ({ changeYear, changeCity, changeType }) => (
         .
         <br />
         <br />
-        Yesterday you said tomorrow.
+        Pain Is Inevitable Suffering Is Optional.
       </p>
     </section>
     <hr color="red" />
