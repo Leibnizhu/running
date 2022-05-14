@@ -186,7 +186,7 @@ const Index = () => {
         )}
         </div>
         <div className="fl w-100 w-70-l">
-          <RunMap
+          {/* <RunMap
             runs={runs}
             year={year}
             title={title}
@@ -195,7 +195,7 @@ const Index = () => {
             setViewport={setViewport}
             changeYear={changeYear}
             thisYear={year}
-          />
+          /> */}
           {year === 'Total' ? (
             <SVGStat />
           ) : (
