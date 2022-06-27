@@ -4816,7 +4816,7 @@
 },
 {
 "run_id": 1653945763000,
-"name": "\u5e7f\u5dde\u5e02 \u8dd1\u6b65",
+"name": "\u5e7f\u5dde\u5e02 LSD",
 "distance": 14566.823126242707,
 "moving_time": "1:52:47",
 "type": "Run",
@@ -4861,7 +4861,7 @@
 },
 {
 "run_id": 1654419925000,
-"name": "\u5e7f\u5dde\u5e02 \u8dd1\u6b65",
+"name": "\u5e7f\u5dde\u5e02 LSD",
 "distance": 13159.573200099265,
 "moving_time": "1:49:46",
 "type": "Run",
@@ -4906,7 +4906,7 @@
 },
 {
 "run_id": 1654983922000,
-"name": "\u5e7f\u5dde\u5e02 \u8dd1\u6b65",
+"name": "\u5e7f\u5dde\u5e02 LSD",
 "distance": 14196.996005043962,
 "moving_time": "1:41:38",
 "type": "Run",
@@ -4951,7 +4951,7 @@
 },
 {
 "run_id": 1655501831000,
-"name": "\u5e7f\u5dde\u5e02 \u8dd1\u6b65",
+"name": "\u5e7f\u5dde\u5e02 LSD",
 "distance": 14449.99150936983,
 "moving_time": "1:51:07",
 "type": "Run",
@@ -4996,7 +4996,7 @@
 },
 {
 "run_id": 1656106151000,
-"name": "\u5e7f\u5dde\u5e02 \u8dd1\u6b65",
+"name": "\u5e7f\u5dde\u5e02 LSD",
 "distance": 14138.9812369437,
 "moving_time": "1:39:16",
 "type": "Run",
@@ -5006,6 +5006,21 @@
 "summary_polyline": "orclCut_sTn@^b@bGu@AR@KlCuBzKfBl@xFFvNdBZrIa@~AcAlNfAzA`AZ~@hBj@GdAf@vApBvNh@f@[tDMxAJJd@|Tr@za@b@_CLQlBb@rGg@PSbANvAa@nBSrKPhg@y@pf@cDni@CxF}G|`@{@`CoB`Pm@bKh@fDfApA@xAlBjEy]d@n@qBSYR_LfAeP`Gyq@r@cOWu@VuKj@eEjB{ALiJqBeB`@yBd@oPzAkGB_Gu@aEd@wDk@cMy@wBu@wMoEo^c`@DgHg@sBaBq@kBqCsCfBqO`@S^wDWs@i@DVoE_KQ_C_@",
 "average_heartrate": 137.0,
 "average_speed": 2.373905513254483,
+"source": "Garmin Connect",
+"streak": 1
+},
+{
+"run_id": 1656283707000,
+"name": "\u5e7f\u5dde\u5e02 \u8dd1\u6b65",
+"distance": 5304.611326136754,
+"moving_time": "0:32:11",
+"type": "Run",
+"start_date": "2022-06-26 22:48:27",
+"start_date_local": "2022-06-27 06:48:27",
+"location_country": "\u4e2d\u5c71\u5927\u9053\u897f, \u68e0\u4e0b\u8857\u9053, \u68e0\u4e1c, \u5929\u6cb3\u533a, \u5e7f\u5dde\u5e02, \u5e7f\u4e1c\u7701, 510665, \u4e2d\u56fd",
+"summary_polyline": "qxclCiv_sTs@mASNQpKy@nL]~@fBVXv@vAqAZgBbAc@nEpB|CIpAmJt@NC_Fn@_BBwCt@cBqD}Aa@ZaCCUk@uAGmBuA{@Vo@UcAnA}AtGcA|Ko@`B_BjBCdBJr@jDb@rE~AA_B|@{@fBXj@c@fA`@dC@bA_BJgB`AcCD_DjBcH@iCqHsAmAD]cAgBQw@iAUXyA]o@NgCxD]fBgB|Ar@zBCdCs@z@j@fDs@f@[|FzKrA[_CrAcL",
+"average_heartrate": 132.0,
+"average_speed": 2.747079920319396,
 "source": "Garmin Connect",
 "streak": 1
 }
